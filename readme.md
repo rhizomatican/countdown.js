@@ -1,4 +1,4 @@
-A simple function that outputs an array of days, hours, minutes, and seconds from the present moment until a specified 'targetDate', which should be reprented in miliseconds as per the '.getTime()' method.
+A simple function that outputs an array of days, hours, minutes, and seconds from the present moment until a specified 'targetDate', which should be specified in miliseconds as per the '.getTime()' method.
 
 Easy to integrate into a 'countdown clock', e.g. within an html template as follows:
 
